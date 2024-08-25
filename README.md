@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YeshwanthKare
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development with React, Native and Redux
-- 💞️ I’m looking to collaborate on Projects related to web developing
+- 👀 I’m interested in Web Development and DevOps
+- 🌱 I’m currently working on Web Developer Technologies along with DevOps Tools with Automation
+- 💞️ I’m looking to collaborate on Projects related to AWS/Azure DevOps
 - 📫 Email : yesh.kare@gmail.com
 
 <!---
