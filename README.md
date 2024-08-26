@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YeshwanthKare
+- 👋 Hi, I’m @Jaya Bhavan Yeswant Nadh Kare
 - 👀 I’m interested in Web Development and DevOps
 - 🌱 I’m currently working on Web Developer Technologies along with DevOps Tools with Automation
 - 💞️ I’m looking to collaborate on Projects related to AWS/Azure DevOps
